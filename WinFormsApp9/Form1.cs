@@ -27,7 +27,7 @@ namespace WinFormsApp9
         private void corETipoDeLetraToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
-            
+
 
 
         }
